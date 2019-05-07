@@ -276,6 +276,11 @@ h3.menu-item-title{
 	font-style: italic;
 }
 
+
+.purpose{
+	margin-top: 50px;
+}
+
 /*LARGE DEVICES ONLY*/
 @media(min-width: 1200px){
 
